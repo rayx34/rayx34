@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rayx34
-- 👀 I’m interested in in software development and full stack development.
+- 👀 I’m interested in software development and full stack development.
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript. 
 - 💞️ I’m looking to collaborate on anything using Python.
 
